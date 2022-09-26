@@ -1,0 +1,98 @@
+2022-09-26 22:20:58,797 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:20:58,801 DEBUG:Purchagsing 1 ethereum for 1321.21 dollars
+2022-09-26 22:20:58,803 DEBUG:Purchagsing 1 tether for 1.0 dollars
+2022-09-26 22:20:58,805 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:20:58,815 DEBUG:ID: bitcoin | Buy count: 1 | Loss/gain: 0.0 %
+2022-09-26 22:20:58,816 DEBUG:ID: ethereum | Buy count: 1 | Loss/gain: 0.0 %
+2022-09-26 22:20:58,822 DEBUG:ID: tether | Buy count: 1 | Loss/gain: 0.0 %
+2022-09-26 22:21:12,951 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:21:12,955 DEBUG:Purchagsing 1 ethereum for 1321.21 dollars
+2022-09-26 22:21:12,957 DEBUG:Purchagsing 1 tether for 1.0 dollars
+2022-09-26 22:21:12,961 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:21:12,961 DEBUG:ID: bitcoin | Buy count: 2 | Loss/gain: 0.0 %
+2022-09-26 22:21:12,962 DEBUG:ID: ethereum | Buy count: 2 | Loss/gain: 0.0 %
+2022-09-26 22:21:12,963 DEBUG:ID: tether | Buy count: 2 | Loss/gain: 0.0 %
+2022-09-26 22:21:23,586 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:21:23,589 DEBUG:Purchagsing 1 ethereum for 1321.21 dollars
+2022-09-26 22:21:23,592 DEBUG:Purchagsing 1 tether for 1.0 dollars
+2022-09-26 22:21:23,595 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:21:23,604 DEBUG:ID: bitcoin | Buy count: 3 | Loss/gain: 0.0 %
+2022-09-26 22:21:23,605 DEBUG:ID: ethereum | Buy count: 3 | Loss/gain: 0.0 %
+2022-09-26 22:21:23,605 DEBUG:ID: tether | Buy count: 3 | Loss/gain: 0.0 %
+2022-09-26 22:21:34,161 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:21:34,164 DEBUG:Purchagsing 1 ethereum for 1321.21 dollars
+2022-09-26 22:21:34,166 DEBUG:Purchagsing 1 tether for 1.0 dollars
+2022-09-26 22:21:34,168 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:21:34,169 DEBUG:ID: bitcoin | Buy count: 4 | Loss/gain: 0.0 %
+2022-09-26 22:21:34,169 DEBUG:ID: ethereum | Buy count: 4 | Loss/gain: 0.0 %
+2022-09-26 22:21:34,170 DEBUG:ID: tether | Buy count: 4 | Loss/gain: 0.0 %
+2022-09-26 22:21:45,040 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:21:45,045 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:21:45,050 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:21:45,056 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:21:45,057 DEBUG:ID: bitcoin | Buy count: 5 | Loss/gain: 0.0 %
+2022-09-26 22:21:45,069 DEBUG:ID: ethereum | Buy count: 5 | Loss/gain: 0.0 %
+2022-09-26 22:21:45,072 DEBUG:ID: tether | Buy count: 5 | Loss/gain: -0.03 %
+2022-09-26 22:21:55,625 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:21:55,628 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:21:55,630 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:21:55,637 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:21:55,637 DEBUG:ID: bitcoin | Buy count: 6 | Loss/gain: -0.0 %
+2022-09-26 22:21:55,638 DEBUG:ID: ethereum | Buy count: 6 | Loss/gain: 0.0 %
+2022-09-26 22:21:55,639 DEBUG:ID: tether | Buy count: 6 | Loss/gain: -0.03 %
+2022-09-26 22:22:06,530 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:06,534 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:06,537 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:06,543 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:06,544 DEBUG:ID: bitcoin | Buy count: 7 | Loss/gain: 0.0 %
+2022-09-26 22:22:06,544 DEBUG:ID: ethereum | Buy count: 7 | Loss/gain: 0.0 %
+2022-09-26 22:22:06,545 DEBUG:ID: tether | Buy count: 7 | Loss/gain: -0.02 %
+2022-09-26 22:22:17,081 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:17,085 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:17,088 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:17,092 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:17,093 DEBUG:ID: bitcoin | Buy count: 8 | Loss/gain: 0.0 %
+2022-09-26 22:22:17,094 DEBUG:ID: ethereum | Buy count: 8 | Loss/gain: 0.0 %
+2022-09-26 22:22:17,095 DEBUG:ID: tether | Buy count: 8 | Loss/gain: -0.02 %
+2022-09-26 22:22:27,609 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:27,612 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:27,615 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:27,618 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:27,623 DEBUG:ID: bitcoin | Buy count: 9 | Loss/gain: 0.0 %
+2022-09-26 22:22:27,624 DEBUG:ID: ethereum | Buy count: 9 | Loss/gain: 0.0 %
+2022-09-26 22:22:27,628 DEBUG:ID: tether | Buy count: 9 | Loss/gain: -0.02 %
+2022-09-26 22:22:38,227 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:38,233 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:38,236 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:38,249 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:38,250 DEBUG:ID: bitcoin | Buy count: 10 | Loss/gain: 0.0 %
+2022-09-26 22:22:38,251 DEBUG:ID: ethereum | Buy count: 10 | Loss/gain: 0.0 %
+2022-09-26 22:22:38,254 DEBUG:ID: tether | Buy count: 10 | Loss/gain: -0.02 %
+2022-09-26 22:22:48,969 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:48,975 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:48,981 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:48,989 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:48,992 DEBUG:ID: bitcoin | Buy count: 11 | Loss/gain: 0.0 %
+2022-09-26 22:22:48,993 DEBUG:ID: ethereum | Buy count: 11 | Loss/gain: 0.0 %
+2022-09-26 22:22:48,999 DEBUG:ID: tether | Buy count: 11 | Loss/gain: -0.02 %
+2022-09-26 22:22:59,585 DEBUG:Purchagsing 1 bitcoin for 19113.66 dollars
+2022-09-26 22:22:59,590 DEBUG:Purchagsing 1 ethereum for 1321.26 dollars
+2022-09-26 22:22:59,593 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:22:59,599 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:22:59,600 DEBUG:ID: bitcoin | Buy count: 12 | Loss/gain: -0.0 %
+2022-09-26 22:22:59,602 DEBUG:ID: ethereum | Buy count: 12 | Loss/gain: 0.0 %
+2022-09-26 22:22:59,604 DEBUG:ID: tether | Buy count: 12 | Loss/gain: -0.01 %
+2022-09-26 22:23:10,803 DEBUG:Purchagsing 1 bitcoin for 19115.79 dollars
+2022-09-26 22:23:10,809 DEBUG:Purchagsing 1 ethereum for 1321.46 dollars
+2022-09-26 22:23:10,813 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:23:10,817 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:23:10,818 DEBUG:ID: bitcoin | Buy count: 13 | Loss/gain: 0.01 %
+2022-09-26 22:23:10,819 DEBUG:ID: ethereum | Buy count: 13 | Loss/gain: 0.02 %
+2022-09-26 22:23:10,821 DEBUG:ID: tether | Buy count: 13 | Loss/gain: -0.01 %
+2022-09-26 22:23:21,456 DEBUG:Purchagsing 1 bitcoin for 19115.79 dollars
+2022-09-26 22:23:21,461 DEBUG:Purchagsing 1 ethereum for 1321.46 dollars
+2022-09-26 22:23:21,467 DEBUG:Purchagsing 1 tether for 0.999586 dollars
+2022-09-26 22:23:21,476 DEBUG:===================== Printing results of current portfolio =====================
+2022-09-26 22:23:21,477 DEBUG:ID: bitcoin | Buy count: 14 | Loss/gain: 0.01 %
+2022-09-26 22:23:21,478 DEBUG:ID: ethereum | Buy count: 14 | Loss/gain: 0.01 %
+2022-09-26 22:23:21,479 DEBUG:ID: tether | Buy count: 14 | Loss/gain: -0.01 %

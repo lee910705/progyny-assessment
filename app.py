@@ -14,7 +14,7 @@ logging.basicConfig(
     filename="storage/logs/app.log",
     format="%(asctime)s %(levelname)s:%(message)s",
 )
-load_dotenv(find_dotenv(raise_error_if_not_found=True))
+load_dotenv(find_dotenv(raise_error_if_not_found=False))
 
 initialize_db()
 

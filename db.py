@@ -5,7 +5,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.sql import text
 
 engine = create_engine(
-    "postgresql+psycopg2://docker:secret@interview-assessment-master-db-1:5432/postgres"
+    "postgresql+psycopg2://docker:secret@progyny-assessment-db-1:5432/postgres"
 )
 
 # Initializing postgres, feeds two tables 'crypto' and 'transaction_history'
