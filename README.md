@@ -35,9 +35,16 @@ There are designs that can be improved for sure, and I'll note possible improvem
         ├── storage
         │   └── logs
         │       └── app.log       
-        └── .gitignore
-        ...
+        └── unit_tests
         ```
+
+- Proper data modeling with sqlalchemy
+    - If you have noticed in the `db.py` file, I initialize the table schema with sqlalchemy, and just use SQL query executions when the actual query is made.
+    - For consistency, I'd define proper data models in sqlalchemy, and fix the queries to use those data model definitions.
+    
+- Unit tests
+    - I haven't written unit tests around the functionality, and it would be crucial to implement these tests before production
+
 - Way the application is set up to run hourly
     - I designed this to only run in local, and this approach will not be my approach when I look at it from a production perspective.
     - Possible approaches:
