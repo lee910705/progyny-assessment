@@ -20,6 +20,7 @@ initialize_db()
 
 
 def cron_job():
+    # Phase 1
     coins = crypto_api.get_coins()
     # Storing top 3 coins (by current market cap)
     first_coin, second_coin, third_coin = coins[0:3]
@@ -27,6 +28,7 @@ def cron_job():
     upsert_crypto(second_coin)
     upsert_crypto(third_coin)
 
+    # Phase 2
     # Fetching 10 day average for the top 3 cryptocurrencies
     first_coin_avg = get_10_day_average(first_coin.get("id"))
     second_coin_avg = get_10_day_average(second_coin.get("id"))
@@ -95,4 +97,4 @@ def calculate_loss_gain(purchase_price, current_price):
 
 while True:
     cron_job()
-    time.sleep(3600)  # Adjust this to 10 for testing purposes
+    time.sleep(3600)  # Adjust this to a lesser number for testing purposes
